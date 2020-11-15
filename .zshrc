@@ -40,6 +40,6 @@ PROMPT="%B%F{13}console%f%b %B%F{87}%~%f%b%B%F{87}  %f%b"
 RPROMPT="%T"
 
 # Xtra
-alias gn='echo "Goodnight, Denis. Sleep well.\n"; xdg-open sleep.bat 2>/dev/null'
+alias gn='echo "Goodnight, UserName. Sleep well.\n"; xdg-open sleep.bat 2>/dev/null'
 alias cgn='echo "Cancelling...\n"; xdg-open csleep.bat 2>/dev/null'
 alias cls='clear'
